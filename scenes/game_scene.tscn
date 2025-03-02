@@ -1,8 +1,8 @@
 [gd_scene load_steps=5 format=3 uid="uid://vq5kr86416s4"]
 
-[ext_resource type="PackedScene" uid="uid://krh4wqhn34oi" path="res://scenes/entities/minion.tscn" id="1_4bfgp"]
+[ext_resource type="PackedScene" uid="uid://krh4wqhn34oi" path="res://Scenes/entities/minion.tscn" id="1_4bfgp"]
 [ext_resource type="Script" path="res://scripts/entities/enemy_spawner.gd" id="2_qdphv"]
-[ext_resource type="PackedScene" uid="uid://dubqfll6wt3er" path="res://scenes/entities/enemy.tscn" id="3_3rgyx"]
+[ext_resource type="PackedScene" uid="uid://dubqfll6wt3er" path="res://Scenes/entities/enemy.tscn" id="3_3rgyx"]
 
 [sub_resource type="NavigationPolygon" id="NavigationPolygon_fcdfl"]
 vertices = PackedVector2Array(1142, 630.062, 9.99219, 637.93, 10, 10, 1142, 10)
