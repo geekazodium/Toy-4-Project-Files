@@ -1,6 +1,6 @@
 [gd_scene load_steps=13 format=3 uid="uid://krh4wqhn34oi"]
 
-[ext_resource type="Script" path="res://scripts/entities/player.gd" id="1_fk853"]
+[ext_resource type="Script" path="res://scripts/entities/entity.gd" id="1_fk853"]
 [ext_resource type="Texture2D" uid="uid://onhpoqcmxp7r" path="res://icon.svg" id="1_r8ng3"]
 [ext_resource type="Script" path="res://scripts/health/health_tracker.gd" id="2_sfkwh"]
 [ext_resource type="Script" path="res://scripts/entities/delete_on_death.gd" id="3_x2c8f"]
