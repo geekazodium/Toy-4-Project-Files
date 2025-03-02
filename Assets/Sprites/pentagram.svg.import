@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dbhlxyr0jai8p"
-path="res://.godot/imported/pentagram.svg-e1ec95379ec6ed2e67e2093d01de1ccb.ctex"
+path="res://.godot/imported/pentagram.svg-2750e915982c52438ea412eb01e44163.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/sprites/pentagram.svg"
-dest_files=["res://.godot/imported/pentagram.svg-e1ec95379ec6ed2e67e2093d01de1ccb.ctex"]
+source_file="res://Assets/Sprites/pentagram.svg"
+dest_files=["res://.godot/imported/pentagram.svg-2750e915982c52438ea412eb01e44163.ctex"]
 
 [params]
 
