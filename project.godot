@@ -16,7 +16,6 @@ config/features=PackedStringArray("4.3", "GL Compatibility")
 config/icon="res://icon.svg"
 
 [autoload]
-
 EventBus="*res://scripts/events/event_bus.gd"
 
 [display]
