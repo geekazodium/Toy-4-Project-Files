@@ -29,11 +29,10 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v2
 
-      # - name: Move HTML5 templates into position
-      #   run: |
-      #     mkdir -v -p ~/.local/share/godot/templates
-      #     ls ~/.local/share/godot/templates/
-      #     mv /root/.local/share/godot/templates/${GODOT_VERSION}.stable ~/.local/share/godot/templates/${GODOT_VERSION}.stable
+      - name: Move HTML5 templates into position
+        run: |
+          mkdir -v -p ~/.local/share/godot/templates
+          mv /root/.local/share/godot/templates/${GODOT_VERSION}.stable ~/.local/share/godot/templates/${GODOT_VERSION}.stable.official
       - name: Create staging directory
         run: mkdir -v -p build/web
 
