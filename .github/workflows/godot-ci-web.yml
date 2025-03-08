@@ -32,7 +32,7 @@ jobs:
       - name: Move HTML5 templates into position
         run: |
           mkdir -v -p ~/.local/share/godot/templates
-          mv /root/.local/share/godot/templates/${GODOT_VERSION}.stable ~/.local/share/godot/templates/${GODOT_VERSION}.stable.official
+          mv /root/.local/share/godot/templates/${GODOT_VERSION}.stable.official ~/.local/share/godot/templates/${GODOT_VERSION}.stable
       - name: Create staging directory
         run: mkdir -v -p build/web
 
