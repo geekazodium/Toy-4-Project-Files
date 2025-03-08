@@ -14,7 +14,7 @@ on: push
 
 env:
   GODOT_VERSION: 4.3
-  EXPORT_NAME: Toy-4-Project-Files
+  EXPORT_NAME: toy-4
   PROJECT_PATH: ./
 
 jobs:
